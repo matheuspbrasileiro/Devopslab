@@ -1,1 +1,1 @@
-# Devopslab
+## Aplicação simples em Python/Flask com teste usando Unittest integrado ao Travis-CI fazendo deploy no heroku para a disciplina de DevOps fundamentals do MBA da Impacta
