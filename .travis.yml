@@ -19,3 +19,5 @@ script:
     api_key: $HEROKU_API_KEY  
     edge: true
     app: devopslabs-matheusbrasileiro
+    on:
+      all_branches: true
